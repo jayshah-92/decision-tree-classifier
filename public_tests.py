@@ -1,3 +1,5 @@
+# public_tests.py
+
 import numpy as np
 
 def compute_entropy_test(target):
