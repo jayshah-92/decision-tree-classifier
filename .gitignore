@@ -219,3 +219,6 @@ __marimo__/
 
 # Mac
 *.DS_Store
+
+**/__pycache__/
+**/.ipynb_checkpoints/
